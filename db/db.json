@@ -1,0 +1,26 @@
+{
+  "departaments": [
+    {
+      "name": "departament 1",
+      "id": 1
+    },
+    {
+      "name": "departament 2",
+      "id": 2
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "Ivanov",
+      "lastName": "Ivanadasd",
+      "departamentId": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Petrov",
+      "lastName": "Petr",
+      "departamentId": 2,
+      "id": 2
+    }
+  ]
+}

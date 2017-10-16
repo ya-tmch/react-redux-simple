@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.sidebar {
+  margin: 20px 0;
+  padding: 10px;
+  background-color: #f3f3f3;
+}
+
+.main {
+  margin: 20px 0;
+  padding: 10px;
+}
